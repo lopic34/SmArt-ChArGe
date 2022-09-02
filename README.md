@@ -1,2 +1,1 @@
 # SmArt-ChArGe
-# SmArt-ChArGe
